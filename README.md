@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=1400&lines=🚀+Abhisek+Pradhan;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Online+Banking+System+Developer;Passionate+About+Software+Engineering;Exploring+Microservices+and+Cloud;Problem+Solver+%7C+Lifelong+Learner" />
+</p>
+
 <h1 align="left">Hi 👋, I'm Abhisek Pradhan</h1>
 
 <h3 align="left">
