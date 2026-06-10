@@ -1,309 +1,214 @@
-<h1 align="center">Hi 👋, I'm Abhisek Pradhan</h1>
+<h1 align="left">Hi 👋, I'm Abhisek Pradhan</h1>
 
-<h3 align="center">
-Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL
+<h3 align="left">
+Java Full Stack Developer | Spring Boot | React.js | MySQL | REST APIs
 </h3>
 
-<p align="center">
-Passionate about building secure, scalable, and production-ready web applications using modern Java technologies.
+<p align="left">
+Passionate about building secure, scalable and modern web applications using Java technologies.
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Abhisek-Pradhan-32&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a motivated and detail-oriented Java Full Stack Developer with a strong foundation in software development, backend engineering, and modern web technologies.
-
-I recently completed my Bachelor of Computer Applications (BCA) with an excellent academic record and hands-on experience in developing full-stack applications using Java, Spring Boot, React.js, MySQL, and Docker.
-
-I enjoy solving real-world problems through technology and continuously learning new tools, frameworks, and software engineering practices that help create efficient, maintainable, and scalable applications.
-
-My primary interest lies in:
-
-- Backend Development
-- REST API Design
-- Spring Boot Applications
-- Database Management
-- System Design
-- Software Architecture
-- Cloud & DevOps Technologies
-
-I am currently seeking opportunities where I can contribute my technical skills while continuing to grow as a Software Engineer.
+- 🎓 Bachelor of Computer Applications (BCA)
+- 🏫 Centurion University of Technology and Management
+- 📈 CGPA: 9.2/10
+- 💻 Java Full Stack Developer
+- 🌱 Currently Learning Advanced Spring Boot, Microservices and System Design
+- 🔍 Interested in Backend Development, Cloud Technologies and Software Architecture
+- 🤝 Open to Internship and Entry-Level Software Developer Opportunities
+- 📍 Berhampur, Odisha, India
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Computer Applications (BCA)
-
-**Centurion University of Technology and Management**
-2022 – 2025
-
-📈 CGPA: **9.2 / 10**
-
-Relevant Areas:
-
-- Object-Oriented Programming
-- Database Management Systems
-- Software Engineering
-- Data Structures & Algorithms
-- Computer Networks
-- Operating Systems
-
----
-
-## 🛠 Technical Skills
-
-### Programming Languages
-
-- Java
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+## 🔑 Key Skills
 
 ### Backend Development
-
+- Java
 - Spring Boot
 - Spring Security
-- RESTful APIs
+- REST APIs
 - JWT Authentication
 - MVC Architecture
 - CRUD Operations
 
 ### Frontend Development
-
 - React.js
+- JavaScript
+- HTML5
+- CSS3
 - Tailwind CSS
 - Framer Motion
-- Responsive Web Design
 
-### Database Technologies
-
+### Database
 - MySQL
+- SQL Query Optimization
+- Database Design
 
-### Development Tools
-
+### Tools & Platforms
 - Git
 - GitHub
-- Maven
 - Docker
+- Maven
 - Postman
 - IntelliJ IDEA
 
-### Core Computer Science Concepts
-
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- API Integration
+### Software Engineering
+- Object-Oriented Programming
 - Data Structures & Algorithms
-- Software Development Life Cycle
-- Database Design
+- SDLC
+- API Integration
+- System Design Fundamentals
+- Responsive Web Design
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
 
-# 🏦 Online Banking System
+### 💻 Programming Languages
 
-### Project Overview
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-The Online Banking System is a secure and modern full-stack banking application designed to provide users with essential digital banking services through an intuitive and responsive interface.
+### ⚙️ Backend Technologies
 
-The project focuses on security, performance, user experience, and maintainability while following modern software engineering practices.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🎨 Frontend Technologies
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🏦 Featured Project
+
+# Online Banking System
+
+### Overview
+
+A secure and modern full-stack banking application developed using React.js, Spring Boot, MySQL, and Docker.
+
+The application enables users to manage banking operations securely while providing a responsive and user-friendly experience.
+
+### Features
+
+✅ JWT Authentication
+
+✅ Spring Security Integration
+
+✅ Secure Login & Registration
+
+✅ OTP-Based Password Recovery
+
+✅ Money Transfer System
+
+✅ Transaction History Management
+
+✅ CSV Statement Export
+
+✅ Razorpay Payment Gateway Integration
+
+✅ Responsive User Interface
+
+✅ Dockerized Deployment
 
 ### Technologies Used
 
 - React.js
-- Tailwind CSS
-- Framer Motion
 - Spring Boot
 - Spring Security
-- JWT Authentication
 - MySQL
+- JWT
 - Docker
+- Tailwind CSS
+- Framer Motion
 - Maven
 
-### Key Features
+### Repository
 
-#### 🔐 Secure Authentication
-
-- JWT-based authentication
-- Spring Security integration
-- Role-based authorization
-- Secure login and registration
-
-#### 🔑 Password Recovery System
-
-- OTP-based password reset mechanism
-- Email verification process
-- Secure account recovery workflow
-
-#### 💸 Banking Transactions
-
-- Money transfer functionality
-- Account balance management
-- Transaction history tracking
-- Real-time transaction updates
-
-#### 📄 Statement Generation
-
-- CSV statement export
-- Transaction reports
-- User-friendly transaction records
-
-#### 💳 Payment Integration
-
-- Razorpay payment gateway integration
-- Secure online payments
-- Transaction verification
-
-#### 📱 Modern User Interface
-
-- Responsive design
-- Interactive dashboard
-- Smooth animations using Framer Motion
-- Mobile-friendly experience
-
-#### 🐳 Deployment Ready
-
-- Docker containerization
-- Easy deployment setup
-- Production-ready architecture
-
-### Project Repository
-
-🔗 Repository:
-https://github.com/Abhisek-Pradhan-32/online-banking-system
-
----
-
-## 📚 Additional Academic Projects
-
-### Employee & Task Management System
-
-Technologies:
-- Angular
-- Spring Boot
-- MySQL
-
-Features:
-- Employee management
-- Task assignment
-- Task tracking
-- Administrative controls
-
----
-
-### Hostel Management System
-
-Technologies:
-- Java
-- MySQL
-
-Features:
-- Student management
-- Hostel room allocation
-- Fee management
-- Record maintenance
+🔗 https://github.com/Abhisek-Pradhan-32/online-banking-system
 
 ---
 
 ## 🌱 Currently Learning
 
-I strongly believe in continuous learning and self-improvement.
-
-Current learning goals include:
-
 - Advanced Spring Boot
 - Microservices Architecture
 - System Design
+- Docker & DevOps
 - Data Structures & Algorithms
 - Cloud Deployment
-- CI/CD Pipelines
-- Docker & Containerization
-
----
-
-## 💡 Problem Solving Journey
-
-I actively practice Data Structures and Algorithms to improve:
-
-- Problem-solving skills
-- Coding efficiency
-- Algorithmic thinking
-- Interview preparation
-
-Topics I regularly work on:
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Recursion
-- Dynamic Programming
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Pradhan-32&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Pradhan-32&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Pradhan-32&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Pradhan-32&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisek-Pradhan-32&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisek-Pradhan-32&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Career Objective
+## 🎯 Career Objective
 
-My goal is to become a highly skilled Software Engineer specializing in Java Backend and Full Stack Development.
-
-I aim to contribute to innovative software solutions by applying strong programming fundamentals, clean coding principles, scalable architecture practices, and modern development methodologies.
+To build impactful software solutions while growing as a professional Software Engineer specializing in Java Backend and Full Stack Development.
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-### LinkedIn
+<p align="left">
 
-https://www.linkedin.com/in/abhisek-pradhan-52a3a2300
+<a href="https://github.com/Abhisek-Pradhan-32">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Email
+<a href="https://www.linkedin.com/in/abhisek-pradhan-52a3a2300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-abhisekpradhan211@gmail.com
+<a href="mailto:abhisekpradhan211@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Location
-
-📍 Berhampur, Odisha, India
-
----
-
-## 🎯 Personal Strengths
-
-- Strong Problem-Solving Skills
-- Fast Learner
-- Team Collaboration
-- Leadership Ability
-- Adaptability
-- Attention to Detail
-- Continuous Learning Mindset
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I started my development journey by learning Java fundamentals and gradually expanded into Full Stack Development using Spring Boot and React.
+I enjoy transforming ideas into real-world applications using Java and modern web technologies. My goal is to become a highly skilled Full Stack Software Engineer and contribute to impactful software products.
 
-Today, I enjoy building complete software solutions that combine secure backend systems with modern and responsive user experiences.
-
----
-
-⭐ Thank you for visiting my profile.
-
-If you find my projects helpful, feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile!
