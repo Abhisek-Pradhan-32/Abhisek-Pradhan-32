@@ -89,12 +89,12 @@ A secure and modern full-stack banking application built using React.js, Spring 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=APra-2009-dhan&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APra-2009-dhan&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhisek-Pradhan-32&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek-Pradhan-32&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=APra-2009-dhan&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisek-Pradhan-32&theme=tokyonight" />
 </p>
 
 ---
