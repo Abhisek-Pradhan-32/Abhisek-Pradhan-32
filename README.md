@@ -8,10 +8,6 @@ Java Full Stack Developer | Spring Boot | React.js | MySQL | REST APIs
 Passionate about building secure, scalable and modern web applications using Java technologies.
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Abhisek-Pradhan-32&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
